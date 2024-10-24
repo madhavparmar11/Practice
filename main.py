@@ -1,0 +1,13 @@
+name1=input("write first name: ")
+name2=input("write last name: ")
+fullname= name1+name2
+print(fullname)
+length=len(fullname)
+print(fullname.endswith(input("write the character: ")))
+fullname1=(fullname.capitalize())
+print(fullname1)
+print(fullname.replace(input("select the character u wanna replace: "),input("select the second character: ")))
+print(fullname.find(input("select which character u wanna find: ")))
+print("length of name is: " , length)
+print("occurence of selected character is: ", fullname.count(input("type the character: ")))
+print("OUR CODE ENDS HERE GOODBYE GUYS")
