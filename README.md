@@ -6,10 +6,6 @@ Welcome to the **Python Daily Practice Questions** repository! This project aims
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Daily Practice Structure](#daily-practice-structure)
-- [Contributing](#contributing)
-- [Resources](#resources)
-- [License](#license)
 
 ## Introduction
 
