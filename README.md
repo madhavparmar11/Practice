@@ -1,6 +1,6 @@
 # Daily Practice Questions
 
-Welcome to the **Daily Practice Questions** repository! This project aims to help Python learners improve their coding skills through daily challenges and practice problems.
+Welcome to the **Daily Practice Questions** repository! This project aims to help learners improve their coding skills through daily challenges and practice problems.
 
 ## Table of Contents
 
