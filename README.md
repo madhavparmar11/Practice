@@ -9,7 +9,7 @@ Welcome to the **Daily Practice Questions** repository! This project aims to hel
 
 ## Introduction
 
-Whether you're a beginner looking to build confidence or an experienced developer wanting to sharpen your skills, this repository provides a variety of Python challenges that you can tackle daily. Each question is designed to encourage problem-solving and critical thinking.
+Whether you're a beginner looking to build confidence or an experienced developer wanting to sharpen your skills, this repository provides a variety of challenges that you can tackle daily. Each question is designed to encourage problem-solving and critical thinking.
 
 ## Getting Started
 
